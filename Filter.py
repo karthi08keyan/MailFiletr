@@ -19,3 +19,4 @@ strValue = html.sub('',strValue)
 result = re.sub(' +','',strValue)
 result = " ".join(strValue.split())
 print("Message:",result)
+ 
